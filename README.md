@@ -11,11 +11,11 @@
 
 ---
 
-## 📈 3-Year Engineering & Platform Activity (17 Repositories)
+## 📈 3-Year Engineering & Platform Activity
 
-[![Engineering Experience](https://img.shields.io/badge/Active%20Repositories-17%20Enterprise%20Repos-2563eb?style=flat-square&logo=github)](https://github.com/lucebrartet)
-[![Production Commits](https://img.shields.io/badge/Production%20Commits-1%2C450%2B%20Verified%20Commits-10b981?style=flat-square&logo=git)](https://github.com/lucebrartet)
-[![Engineering History](https://img.shields.io/badge/Platform%20History-3%2B%20Years%20Continuous%20Deploy-f59e0b?style=flat-square)](https://github.com/lucebrartet)
+[![Architecture](https://img.shields.io/badge/Architecture-Enterprise%20Full--Stack-2563eb?style=flat-square&logo=react)](https://www.lucebra.com)
+[![Production Commits](https://img.shields.io/badge/Production%20Commits-2%2C500%2B%20Verified%20Commits-10b981?style=flat-square&logo=git)](https://www.lucebra.com)
+[![Engineering History](https://img.shields.io/badge/Platform%20History-3%2B%20Years%20Continuous%20Deploy-f59e0b?style=flat-square)](https://www.lucebra.com)
 [![Cloud Deploy](https://img.shields.io/badge/Infrastructure-AWS%20Cloud%20Multi--Region-ff9900?style=flat-square&logo=amazon-aws)](https://www.lucebra.com)
 
 <br/>
