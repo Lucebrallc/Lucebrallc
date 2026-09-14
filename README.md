@@ -39,4 +39,4 @@ Upskill your team or organization with unlimited access:
 - **Platform:** [https://www.lucebra.com](https://www.lucebra.com)
 - **Business Solutions:** [https://www.lucebra.com/lucebra-business](https://www.lucebra.com/lucebra-business)
 - **Enterprise LMS:** [https://www.lucebra.com/explore](https://www.lucebra.com/explore)
-- **Support:** support@lucebra.com
+- **Support:** letstalk@lucebra.com
