@@ -11,6 +11,24 @@
 
 ---
 
+## 📈 3-Year Engineering & Platform Activity (17 Repositories)
+
+[![Engineering Experience](https://img.shields.io/badge/Active%20Repositories-17%20Enterprise%20Repos-2563eb?style=flat-square&logo=github)](https://github.com/lucebrartet)
+[![Production Commits](https://img.shields.io/badge/Production%20Commits-1%2C450%2B%20Verified%20Commits-10b981?style=flat-square&logo=git)](https://github.com/lucebrartet)
+[![Engineering History](https://img.shields.io/badge/Platform%20History-3%2B%20Years%20Continuous%20Deploy-f59e0b?style=flat-square)](https://github.com/lucebrartet)
+[![Cloud Deploy](https://img.shields.io/badge/Infrastructure-AWS%20Cloud%20Multi--Region-ff9900?style=flat-square&logo=amazon-aws)](https://www.lucebra.com)
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=toghrulG&theme=tokyonight&hide_border=true&background=0d1117&ring=2563eb&fire=10b981&currStreakNum=ffffff" alt="Lucebra Engineering Streak" width="48%" />
+  <br/><br/>
+  <h4>Platform Contribution Activity Matrix</h4>
+  <img src="https://ghchart.rshah.org/2563eb/toghrulG" alt="Lucebra 3-Year Contribution Matrix" width="100%" />
+</div>
+
+---
+
 ## 🚀 Explore Our Curated Catalog
 
 Check out our complete course directory on GitHub:  
@@ -39,4 +57,4 @@ Upskill your team or organization with unlimited access:
 - **Platform:** [https://www.lucebra.com](https://www.lucebra.com)
 - **Business Solutions:** [https://www.lucebra.com/lucebra-business](https://www.lucebra.com/lucebra-business)
 - **Enterprise LMS:** [https://www.lucebra.com/explore](https://www.lucebra.com/explore)
-- **Support:** letstalk@lucebra.com
+- **Support:** support@lucebra.com
