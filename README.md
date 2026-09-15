@@ -6,6 +6,7 @@
 
 [![Lucebra Platform](https://img.shields.io/badge/Official%20Website-lucebra.com-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.lucebra.com)
 [![Awesome Courses](https://img.shields.io/badge/Awesome%20List-1300%2B%20Courses-10b981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucebrallc/awesome-courses)
+[![Official Blog](https://img.shields.io/badge/Tech%20Blog-about.lucebra.com%2Fblog-0284c7?style=for-the-badge&logo=rss&logoColor=white)](https://www.about.lucebra.com/blog)
 [![Accredited Certificate](https://img.shields.io/badge/Certificates-Verifiable%20Digital-f59e0b?style=for-the-badge)](https://www.lucebra.com)
 [![Languages](https://img.shields.io/badge/Supported%20Locales-33%20Languages-8b5cf6?style=for-the-badge)](https://www.lucebra.com)
 [![Google Play](https://img.shields.io/badge/Google%20Play-Android%20App-34a853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.lucebra.app)
@@ -81,6 +82,7 @@ Upskill your team or organization with unlimited access:
 
 ## 🌐 Connect with Lucebra
 - **Platform:** [https://www.lucebra.com](https://www.lucebra.com)
+- **Engineering & Tech Blog:** [https://www.about.lucebra.com/blog](https://www.about.lucebra.com/blog)
 - **Business Solutions:** [https://www.lucebra.com/lucebra-business](https://www.lucebra.com/lucebra-business)
 - **Enterprise LMS:** [https://www.lucebra.com/explore](https://www.lucebra.com/explore)
 - **iOS App (iPhone/iPad):** [Apple App Store](https://apps.apple.com/us/app/lucebra/id6754839631)
