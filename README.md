@@ -36,16 +36,16 @@ Discover our official, curated Awesome directories across all technical and prof
 
 | Curated Directory | Focus Area & Description | GitHub Repository |
 | :--- | :--- | :--- |
-| 🎓 **Free Certified Courses** | 72 completely free online courses with verifiable digital certificates | [**wesome-free-courses-with-certificates**](https://github.com/Lucebrallc/awesome-free-courses-with-certificates) |
-| 🤖 **AI, ChatGPT & LLMs** | 260+ tracks on Generative AI, prompt engineering & machine learning | [**wesome-ai-chatgpt-courses**](https://github.com/Lucebrallc/awesome-ai-chatgpt-courses) |
-| ⚡ **Arduino, ESP32 & IoT** | 180+ hands-on maker tutorials, embedded systems & hardware projects | [**wesome-arduino-iot-projects**](https://github.com/Lucebrallc/awesome-arduino-iot-projects) |
-| 💻 **Software & Web Dev** | 570+ software engineering, full-stack, game development & DevOps | [**wesome-developer-courses**](https://github.com/Lucebrallc/awesome-developer-courses) |
-| 🏆 **ISO Standards & Audits** | 60+ ISO 9001, 14001, 27001, 22301 lead auditor & compliance tracks | [**wesome-iso-certifications**](https://github.com/Lucebrallc/awesome-iso-certifications) |
-| 👔 **Tech Leadership & Soft Skills** | 160+ masterclasses in negotiation, executive communication & management | [**wesome-soft-skills-leadership**](https://github.com/Lucebrallc/awesome-soft-skills-leadership) |
-| 🗣️ **TJ Walker Catalog** | 43 masterclasses by USA Today #1 Bestselling Public Speaking Author | [**wesome-tj-walker-courses**](https://github.com/Lucebrallc/awesome-tj-walker-courses) |
-| 👔 **Peter Alkema Catalog** | 97 courses on Enterprise IT Strategy, AI & Cloud Transformation | [**wesome-peter-alkema-courses**](https://github.com/Lucebrallc/awesome-peter-alkema-courses) |
-| 🔌 **Educational Engineering Team** | 350+ embedded systems, Arduino & robotics tracks (Ashraf Said AlMadhoun) | [**wesome-educational-engineering-team-courses**](https://github.com/Lucebrallc/awesome-educational-engineering-team-courses) |
-| 🌟 **Complete Master Directory** | Full master index of 1,300+ accredited tracks across all disciplines | [**wesome-courses**](https://github.com/Lucebrallc/awesome-courses) |
+| 🎓 **Free Certified Courses** | 72 completely free online courses with verifiable digital certificates | [`awesome-free-courses-with-certificates`](https://github.com/Lucebrallc/awesome-free-courses-with-certificates) |
+| 🤖 **AI, ChatGPT & LLMs** | 260+ tracks on Generative AI, prompt engineering & machine learning | [`awesome-ai-chatgpt-courses`](https://github.com/Lucebrallc/awesome-ai-chatgpt-courses) |
+| ⚡ **Arduino, ESP32 & IoT** | 180+ hands-on maker tutorials, embedded systems & hardware projects | [`awesome-arduino-iot-projects`](https://github.com/Lucebrallc/awesome-arduino-iot-projects) |
+| 💻 **Software & Web Dev** | 570+ software engineering, full-stack, game development & DevOps | [`awesome-developer-courses`](https://github.com/Lucebrallc/awesome-developer-courses) |
+| 🏆 **ISO Standards & Audits** | 60+ ISO 9001, 14001, 27001, 22301 lead auditor & compliance tracks | [`awesome-iso-certifications`](https://github.com/Lucebrallc/awesome-iso-certifications) |
+| 👔 **Tech Leadership & Soft Skills** | 160+ masterclasses in negotiation, executive communication & management | [`awesome-soft-skills-leadership`](https://github.com/Lucebrallc/awesome-soft-skills-leadership) |
+| 🗣️ **TJ Walker Catalog** | 43 masterclasses by USA Today #1 Bestselling Public Speaking Author | [`awesome-tj-walker-courses`](https://github.com/Lucebrallc/awesome-tj-walker-courses) |
+| 👔 **Peter Alkema Catalog** | 97 courses on Enterprise IT Strategy, AI & Cloud Transformation | [`awesome-peter-alkema-courses`](https://github.com/Lucebrallc/awesome-peter-alkema-courses) |
+| 🔌 **Educational Engineering Team** | 350+ embedded systems, Arduino & robotics tracks (Ashraf Said AlMadhoun) | [`awesome-educational-engineering-team-courses`](https://github.com/Lucebrallc/awesome-educational-engineering-team-courses) |
+| 🌟 **Complete Master Directory** | Full master index of 1,300+ accredited tracks across all disciplines | [`awesome-courses`](https://github.com/Lucebrallc/awesome-courses) |
 
 ### Top Learning Tracks:
 - ⚡ **Embedded Systems & Hardware:** Altium Designer PCB, ESP32, PIC Microcontrollers, Arduino Robotics
@@ -54,21 +54,6 @@ Discover our official, curated Awesome directories across all technical and prof
 - 🎵 **Creative Arts & Audio:** Advanced Music Production, FL Studio, Sound Design
 
 ---
-
-## 🏆 Featured Master Instructors & Industry Giants
-
-Explore verified courses and projects taught by global industry leaders on Lucebra:
-
-| Instructor | Credentials & Focus | Course Catalog Repo | Official Lucebra Profile |
-| :--- | :--- | :--- | :--- |
-| **TJ Walker** | USA Today #1 Bestselling Author • 1.2M+ Students • Public Speaking Expert | [**`awesome-tj-walker-courses`**](https://github.com/Lucebrallc/awesome-tj-walker-courses) | [View Profile →](https://www.lucebra.com/instructor/tjwalker) |
-| **Peter Alkema** | Visionary CIO (ITWeb & Gartner) • IT Strategy • AI & ChatGPT Pioneer | [**`awesome-peter-alkema-courses`**](https://github.com/Lucebrallc/awesome-peter-alkema-courses) | [View Profile →](https://www.lucebra.com/instructor/peteralkema) |
-| **Educational Engineering Team**<br/>*(Ashraf Said AlMadhoun)* | Embedded Systems Authority • 2M+ Students • Arduino & ESP32 | [**`awesome-educational-engineering-team-courses`**](https://github.com/Lucebrallc/awesome-educational-engineering-team-courses) | [View Profile →](https://www.lucebra.com/instructor/educationalengineeringteam) |
-
-> 💡 **Are you an expert?** Share your knowledge with students across 33 languages: [Become an Instructor on Lucebra](https://www.lucebra.com/become-instructor)
-
----
-
 ## 🎁 Exclusive Developer & Business Perks
 
 Upskill your team or organization with unlimited access:
