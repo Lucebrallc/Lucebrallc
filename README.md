@@ -2,13 +2,14 @@
 
 ### Transforming Global Tech & Professional Education
 
-[Lucebra](https://www.lucebra.com) is an international e-learning platform offering **1,300+ accredited online courses**, hands-on engineering projects, and verifiable digital certificates across **33 languages**.
+[Lucebra](https://www.lucebra.com) is an international e-learning platform offering **1,300+ accredited online courses**, hands-on engineering projects, and verifiable digital certificates across **33 languages** with **AI-powered subtitles in 99+ languages**.
 
 [![Lucebra Platform](https://img.shields.io/badge/Official%20Website-lucebra.com-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.lucebra.com)
 [![Awesome Courses](https://img.shields.io/badge/Awesome%20List-1300%2B%20Courses-10b981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucebrallc/awesome-courses)
 [![Official Blog](https://img.shields.io/badge/Tech%20Blog-about.lucebra.com%2Fblog-0284c7?style=for-the-badge&logo=rss&logoColor=white)](https://www.about.lucebra.com/blog)
 [![Accredited Certificate](https://img.shields.io/badge/Certificates-Verifiable%20Digital-f59e0b?style=for-the-badge)](https://www.lucebra.com)
 [![Languages](https://img.shields.io/badge/Supported%20Locales-33%20Languages-8b5cf6?style=for-the-badge)](https://www.lucebra.com)
+[![99+ AI Subtitles](https://img.shields.io/badge/AI%20Subtitles-99%2B%20Languages-8b5cf6?style=for-the-badge&logo=google-translate&logoColor=white)](https://www.lucebra.com)
 [![Google Play](https://img.shields.io/badge/Google%20Play-Android%20App-34a853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.lucebra.app)
 [![App Store](https://img.shields.io/badge/App%20Store-iOS%20App-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/lucebra/id6754839631)
 
@@ -28,6 +29,7 @@
 | **Production Commits** | **2,500+ Commits** | Next.js 14/15, TypeScript, Node.js |
 | **Continuous Delivery** | **3+ Years Non-Stop** | GitHub Actions & AWS Multi-Region |
 | **Course & Content Delivery** | **1,300+ Active Courses** | Global Edge CDN & S3 Streaming |
+| **AI Subtitles & Captions** | **99+ Global Languages** | Synchronous AI Audio-to-Text Multi-Language Engine |
 | **Global Localization** | **33 Complete Languages** | Zero-lag Synchronous I18n Engine |
 | **Enterprise Reliability** | **99.9% Production Uptime** | Sentry APM & AWS CloudWatch |
 
