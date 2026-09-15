@@ -8,6 +8,8 @@
 [![Awesome Courses](https://img.shields.io/badge/Awesome%20List-1300%2B%20Courses-10b981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucebrallc/awesome-courses)
 [![Accredited Certificate](https://img.shields.io/badge/Certificates-Verifiable%20Digital-f59e0b?style=for-the-badge)](https://www.lucebra.com)
 [![Languages](https://img.shields.io/badge/Supported%20Locales-33%20Languages-8b5cf6?style=for-the-badge)](https://www.lucebra.com)
+[![Google Play](https://img.shields.io/badge/Google%20Play-Android%20App-34a853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.lucebra.app)
+[![App Store](https://img.shields.io/badge/App%20Store-iOS%20App-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/lucebra/id6754839631)
 
 ---
 
@@ -54,6 +56,18 @@ Discover our official, curated Awesome directories across all technical and prof
 - 🎵 **Creative Arts & Audio:** Advanced Music Production, FL Studio, Sound Design
 
 ---
+
+## 📱 Official Lucebra Mobile Apps
+
+Stream over 1,300+ courses, download videos for offline viewing, and complete verified certificate exams directly from your mobile device:
+
+| Platform | Direct Store Link | Features |
+| :--- | :--- | :--- |
+| 🍏 **Apple App Store** | [👉 **Download for iPhone & iPad**](https://apps.apple.com/us/app/lucebra/id6754839631) | Offline Streaming • AirPlay • iPad Multitasking |
+| 🤖 **Google Play Store** | [👉 **Get it on Google Play**](https://play.google.com/store/apps/details?id=com.lucebra.app) | Background Audio • Offline Mode • Push Reminders |
+
+---
+
 ## 🎁 Exclusive Developer & Business Perks
 
 Upskill your team or organization with unlimited access:
@@ -69,4 +83,6 @@ Upskill your team or organization with unlimited access:
 - **Platform:** [https://www.lucebra.com](https://www.lucebra.com)
 - **Business Solutions:** [https://www.lucebra.com/lucebra-business](https://www.lucebra.com/lucebra-business)
 - **Enterprise LMS:** [https://www.lucebra.com/explore](https://www.lucebra.com/explore)
+- **iOS App (iPhone/iPad):** [Apple App Store](https://apps.apple.com/us/app/lucebra/id6754839631)
+- **Android App:** [Google Play Store](https://play.google.com/store/apps/details?id=com.lucebra.app)
 - **Support:** letstalk@lucebra.com
