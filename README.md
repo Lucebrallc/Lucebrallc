@@ -52,6 +52,20 @@ Discover our official, curated Awesome directories across all technical and prof
 
 ---
 
+## 🏆 Featured Master Instructors & Industry Giants
+
+Explore verified courses and projects taught by global industry leaders on Lucebra:
+
+| Instructor | Credentials & Focus | Course Catalog Repo | Official Lucebra Profile |
+| :--- | :--- | :--- | :--- |
+| **TJ Walker** | USA Today #1 Bestselling Author • 1.2M+ Students • Public Speaking Expert | [**`awesome-tj-walker-courses`**](https://github.com/Lucebrallc/awesome-tj-walker-courses) | [View Profile →](https://www.lucebra.com/instructor/tjwalker) |
+| **Peter Alkema** | Visionary CIO (ITWeb & Gartner) • IT Strategy • AI & ChatGPT Pioneer | [**`awesome-peter-alkema-courses`**](https://github.com/Lucebrallc/awesome-peter-alkema-courses) | [View Profile →](https://www.lucebra.com/instructor/peteralkema) |
+| **Educational Engineering Team**<br/>*(Ashraf Said AlMadhoun)* | Embedded Systems Authority • 2M+ Students • Arduino & ESP32 | [**`awesome-educational-engineering-team-courses`**](https://github.com/Lucebrallc/awesome-educational-engineering-team-courses) | [View Profile →](https://www.lucebra.com/instructor/educationalengineeringteam) |
+
+> 💡 **Are you an expert?** Share your knowledge with students across 33 languages: [Become an Instructor on Lucebra](https://www.lucebra.com/become-instructor)
+
+---
+
 ## 🎁 Exclusive Developer & Business Perks
 
 Upskill your team or organization with unlimited access:
