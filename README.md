@@ -12,6 +12,7 @@
 [![99+ AI Subtitles](https://img.shields.io/badge/AI%20Subtitles-99%2B%20Languages-8b5cf6?style=for-the-badge&logo=google-translate&logoColor=white)](https://www.lucebra.com)
 [![Google Play](https://img.shields.io/badge/Google%20Play-Android%20App-34a853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.lucebra.app)
 [![App Store](https://img.shields.io/badge/App%20Store-iOS%20App-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/lucebra/id6754839631)
+[![Platform Comparisons](https://img.shields.io/badge/Benchmarks-Lucebra%20vs%20Top%20Platforms-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucebrallc/platform-comparisons)
 
 ---
 
@@ -59,6 +60,7 @@ Discover our **20 official open-source directories**, career roadmaps, interacti
 ### 🛠️ Developer Roadmaps, Toolkits & Open-Source Codebases
 | Toolkit & Guide | Purpose & Focus | Direct GitHub Link |
 | :--- | :--- | :--- |
+| 🌐 **Platform Comparisons & Benchmarks 2026** | Objective head-to-head analysis vs Udemy, Coursera, Teachable, edX & Kajabi | [`platform-comparisons`](https://github.com/Lucebrallc/platform-comparisons) • [Live Compare](https://www.lucebra.com/compare) |
 | 💰 **Course Creator Profit Calculator** | Open-source interactive calculator comparing net earnings across Udemy, Teachable, Kajabi & Lucebra | [`course-profit-calculator`](https://github.com/Lucebrallc/course-profit-calculator) • [Live Demo](https://lucebrallc.github.io/course-profit-calculator/) |
 | 🗺️ **Career Transition Roadmaps** | Visual roadmaps & milestone checklists for switching careers into AI/Data, Full-Stack, Cloud/DevOps & Product | [`awesome-career-transition-roadmaps`](https://github.com/Lucebrallc/awesome-career-transition-roadmaps) |
 | 🗺️ **Developer Roadmaps 2026** | Step-by-step career skill trees for Frontend, AI, Embedded & Cloud | [`awesome-developer-roadmaps`](https://github.com/Lucebrallc/awesome-developer-roadmaps) |
