@@ -96,12 +96,25 @@ Stream over 1,500+ courses, download videos for offline viewing, and complete ve
 
 ## 🎁 Exclusive Developer & Business Perks
 
-Upskill your team or organization with unlimited access:
+Upskill your team or organization with unlimited access on [Lucebra Business](https://www.lucebra.com/lucebra-business):
 
-| Coupon Code | Exclusive Perk | Target Plan | Direct Activation Link |
+| Coupon Code | Exclusive Perk | Target Plan & Eligibility | Direct Activation Link |
 | :--- | :--- | :--- | :--- |
-| **`BB30TRIAL`** | **Extended 30-Day Free Trial** (Full Access) | Lucebra Business | [👉 Activate 30-Day Trial](https://www.lucebra.com/business-checkout?coupon=BB30TRIAL) |
-| **`LCBR25EB`** | **50% OFF Lifetime Discount + 7-Day Trial** | Lucebra Business | [👉 Activate 50% Off Deal](https://www.lucebra.com/business-checkout?coupon=LCBR25EB) |
+| **`BB30TRIAL`** | **Extended 30-Day Free Trial** (Full Access) | Personal & Team (Monthly) | [👉 Activate 30-Day Trial](https://www.lucebra.com/lucebra-business?coupon=BB30TRIAL) |
+| **`LCBR25EB`** | **50% OFF Discount + 7-Day Trial** | Personal (6-Month & Yearly) | [👉 Activate 50% Off Deal](https://www.lucebra.com/lucebra-business?coupon=LCBR25EB) |
+| **`SPRINT90`** | **25% OFF 90-Day Career Sprint** | Personal (3-Month) | [👉 Activate 25% Off Sprint](https://www.lucebra.com/lucebra-business?coupon=SPRINT90) |
+| **`ANNUAL2FREE`** | **2 Months Free (~17% OFF)** | Personal (Yearly Upgrade) | [👉 Activate 2 Months Free](https://www.lucebra.com/lucebra-business?coupon=ANNUAL2FREE) |
+| **`COMEBACK30`** | **30% OFF Welcome-Back Offer** | Personal (Lapsed 30+ Days) | [👉 Activate 30% Off Comeback](https://www.lucebra.com/lucebra-business?coupon=COMEBACK30) |
+| **`TEAM5PLUS`** | **30% OFF First 3 Months** | Team Plan (5+ Seats) | [👉 Activate Team 5+ Deal](https://www.lucebra.com/lucebra-business?coupon=TEAM5PLUS) |
+| **`TEAMANNUAL40`** | **40% OFF Team Discount** | Team Plan (6-Month & Yearly) | [👉 Activate Team 40% Off](https://www.lucebra.com/lucebra-business?coupon=TEAMANNUAL40) |
+| **`GROWTEAM25`** | **25% OFF First Year** | Team Plan (Personal Upgrade) | [👉 Activate Team Upgrade](https://www.lucebra.com/lucebra-business?coupon=GROWTEAM25) |
+| **`ENTPILOT30`** | **30-Day Full Enterprise & LMS Pilot** | Enterprise Plan & LMS (20+ Seats) | [👉 Start 30-Day LMS Pilot](https://www.lucebra.com/lucebra-business?coupon=ENTPILOT30) |
+| **`PAY10GET12`** | **2 Months Free on Annual Billing** | Enterprise Plan & LMS (Yearly, 20+ Seats) | [👉 Claim 2 Months Free](https://www.lucebra.com/lucebra-business?coupon=PAY10GET12) |
+| **`SWITCHLMS50`** | **50% OFF First 3 Months (LMS Migration)** | Enterprise Plan & LMS (20+ Seats) | [👉 Switch & Save 50%](https://www.lucebra.com/lucebra-business?coupon=SWITCHLMS50) |
+| **`GOVEDU50`** | **50% OFF Institutional Grant** | Team & Enterprise (B2G, Universities, NGOs) | [👉 Apply Institutional Grant](https://www.lucebra.com/lucebra-business?coupon=GOVEDU50) |
+| **`EDU50`** | **50% OFF Academic & Student Discount** | Personal, Team & Enterprise (Edu) | [👉 Claim 50% Edu Offer](https://www.lucebra.com/lucebra-business?coupon=EDU50) |
+| **`GOVGRANT`** | **50% OFF Public Sector Grant** | Team & Enterprise (Government / B2G) | [👉 Claim Public Sector Grant](https://www.lucebra.com/lucebra-business?coupon=GOVGRANT) |
+| **`STARTUP40`** | **40% OFF Startup Growth Rate** | Team & Enterprise (Startups) | [👉 Claim 40% Startup Deal](https://www.lucebra.com/lucebra-business?coupon=STARTUP40) |
 
 
 ### 🎁 Lucebra Member Rewards — Exclusive Global Partner Perks
